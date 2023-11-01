@@ -7,7 +7,7 @@
 
 2.Elton Hsieh 
 
-3.Aidan Kane https://github.com/aidanpatrickkane
+3.Aidan Kane [@aidanpatrickkane](https://github.com/aidanpatrickkane)
 
 4.Mandy Larsen
 
