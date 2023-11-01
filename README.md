@@ -9,7 +9,7 @@
 
 3.Aidan Kane [@aidanpatrickkane](https://github.com/aidanpatrickkane)
 
-4.Mandy Larsen
+4.Mandy Larsen [@awl25](https://github.com/awl25)
 
 5.Zhengze Li [@Hwyqlzz](https://github.com/Hwyqlzz)
 
