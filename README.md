@@ -5,7 +5,7 @@
 
 1.Michael Hearnes 
 
-2.Elton Hsieh 
+2.Elton Hsieh [@ehsieh1](https://github.com/ehsieh1)
 
 3.Aidan Kane [@aidanpatrickkane](https://github.com/aidanpatrickkane)
 
