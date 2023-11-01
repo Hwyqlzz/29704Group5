@@ -22,4 +22,4 @@ I am the owner/operator of a tennis club called "Green Valley Tennis Center," lo
 <h2>Querise:</h2>
 <h2>Database information:</h2>
 Name of the database: USE ns_F2329704Group5;
-<img width="1064" alt="Screenshot 2023-11-01 at 16 51 43" src="https://github.com/Hwyqlzz/group5/assets/148079593/5c185656-669e-4c80-847d-8c9b85036319">
+
