@@ -1,6 +1,6 @@
 <h1>GROUP 5 MIST 4610 Group Project 1</h1>
 <h2>TEAM NAME:</h2>
-29704Group5
+29704 Group5
 <h2>Team Members:</h2>
 
 1.Michael Hearnes [@mh101410](https://github.com/mh101410)
@@ -76,5 +76,7 @@ Query 9
 Query 10
 
 <h2>Database information:</h2>
-Name of the database: USE ns_F2329704Group5;
+Name of the database: ns_F2329704Group 5
+
+Additional information: All queries above are stored as procedures in the database and are callable using the format: CALL TP_Q1();
 
