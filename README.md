@@ -51,6 +51,7 @@ Query 4:  lists out % of players and coaches who identify as either “non-binar
 It allows the club to see what percentage of their players and coaches prefer to have complete gender neutrality.
 
 Query 5:  lists out the player names who have spent less on merchandise than the average player, it’s a complex query.  
+![Picture1](https://github.com/Hwyqlzz/group5/assets/148079593/626f93cc-0ace-4e3b-9ce5-cc818ebef21e)
 
 It allows the club to keep track of who are their most loyal players, and who aren’t.
 
