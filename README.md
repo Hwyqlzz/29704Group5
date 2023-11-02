@@ -3,17 +3,17 @@
 29704 Group5
 <h2>Team Members:</h2>
 
-1.Michael Hearnes [@mh101410](https://github.com/mh101410)
+1. Michael Hearnes [@mh101410](https://github.com/mh101410)
 
-2.Elton Hsieh [@ehsieh1](https://github.com/ehsieh1)
+2. Elton Hsieh [@ehsieh1](https://github.com/ehsieh1)
 
-3.Aidan Kane [@aidanpatrickkane](https://github.com/aidanpatrickkane)
+3. Aidan Kane [@aidanpatrickkane](https://github.com/aidanpatrickkane)
 
-4.Mandy Larsen [@awl25](https://github.com/awl25)
+4. Mandy Larsen [@awl25](https://github.com/awl25)
 
-5.Zhengze Li [@Hwyqlzz](https://github.com/Hwyqlzz)
+5. Zhengze Li [@Hwyqlzz](https://github.com/Hwyqlzz)
 
-6.Nabeel Mohammed [@nabeelmohd56](https://github.com/nabeelmohd56)
+6. Nabeel Mohammed [@nabeelmohammed](https://github.com/nabeelmohd56)
 
 <h2>Problem Description:</h2>
 I am the owner/operator of a tennis club called "Green Valley Tennis Center," located in Athens, Georgia. Our club is a premium tennis facility that caters to tennis enthusiasts of all ages and skill levels. We offer a range of services, from professional coaching and training to court rentals, leagues, tournaments, and a pro shop. Our goal is to provide a top-notch experience for tennis players and create a vibrant and welcoming tennis community in our area.
