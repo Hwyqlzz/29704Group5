@@ -30,7 +30,7 @@ I am the owner/operator of a tennis club called "Green Valley Tennis Center," lo
 ![image](https://github.com/Hwyqlzz/group5/assets/131398458/e1d7693d-b750-4c77-98f6-f68669c0f63a)
 ![image](https://github.com/Hwyqlzz/group5/assets/131398458/dac4a96f-6657-4a2b-b1a3-3cb89b20fa37)
 ![image](https://github.com/Hwyqlzz/group5/assets/131398458/5ee994f2-1be1-4d82-831a-31fe603c959b)
-![image](https://github.com/Hwyqlzz/group5/assets/131398458/58f70311-0cf9-4b6b-9978-4ab5f4b65675)
+
 
 <h2>Querise:</h2>
 
