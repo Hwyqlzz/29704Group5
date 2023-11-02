@@ -18,6 +18,9 @@
 <h2>Problem Description:</h2>
 I am the owner/operator of a tennis club called "Green Valley Tennis Center," located in Athens, Georgia. Our club is a premium tennis facility that caters to tennis enthusiasts of all ages and skill levels. We offer a range of services, from professional coaching and training to court rentals, leagues, tournaments, and a pro shop. Our goal is to provide a top-notch experience for tennis players and create a vibrant and welcoming tennis community in our area.
 <h2>Data Model:</h2>
+Explanation of data model:
+
+
 <h2>Data Dictionary:</h2>
 <img width="699" alt="Merchandise" src="https://github.com/Hwyqlzz/group5/assets/131398458/54e6638b-6c58-475c-aaf0-851f02e89575">
 
