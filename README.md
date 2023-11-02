@@ -21,6 +21,7 @@ I am the owner/operator of a tennis club called "Green Valley Tennis Center," lo
 Explanation of data model:
 
 Data model:
+![IMG_2808](https://github.com/Hwyqlzz/group5/assets/148079593/b8173d21-af5f-42a9-9180-1c259361208e)
 
 <h2>Data Dictionary:</h2>
 <img width="699" alt="Merchandise" src="https://github.com/Hwyqlzz/group5/assets/131398458/54e6638b-6c58-475c-aaf0-851f02e89575">
