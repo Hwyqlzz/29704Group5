@@ -42,6 +42,22 @@ Query 2 lists a query that lists the information for all the players who have no
 <img width="1064" alt="Screenshot 2023-11-01 at 16 51 43" src="https://github.com/Hwyqlzz/group5/assets/148079593/7b91476c-6cc8-4c33-8eb6-29d9d53f4148">
 This allows the club to market to and contact specific customers ( promotional emails or coupons). This helps to maximize revenue and efficiency as it specifically targets those who are not engaged in the booking rather than wasting time and resources advertising to those who are already engaged in the booking.
 
+Query 3:  lists out the player name and number of lessons, it’s a simple query.
+
+It allows the club to track which players have made lessons to keep into their logs.
+
+Query 4:  lists out % of players and coaches who identify as either “non-binary” or “prefer not to say” and it’s a complex query.  
+
+It allows the club to see what percentage of their players and coaches prefer to have complete gender neutrality.
+
+Query 5:  lists out the player names who have spent less on merchandise than the average player, it’s a complex query.  
+
+It allows the club to keep track of who are their most loyal players, and who aren’t.
+
+Query 6:  lists out players who have never played in a tournament, it’s a simple query.  
+![Picture1](https://github.com/Hwyqlzz/group5/assets/148079593/0f0d36d4-a3c8-45a4-ab64-83679675ecd0)
+
+It allows the club to market who are making their opening debut in which tournaments, and may gardner a larger audience.
 
 
 
