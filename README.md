@@ -19,6 +19,8 @@
 I am the owner/operator of a tennis club called "Green Valley Tennis Center," located in Athens, Georgia. Our club is a premium tennis facility that caters to tennis enthusiasts of all ages and skill levels. We offer a range of services, from professional coaching and training to court rentals, leagues, tournaments, and a pro shop. Our goal is to provide a top-notch experience for tennis players and create a vibrant and welcoming tennis community in our area.
 <h2>Data Model:</h2>
 <h2>Data Dictionary:</h2>
+<img width="699" alt="Merchandise" src="https://github.com/Hwyqlzz/group5/assets/131398458/54e6638b-6c58-475c-aaf0-851f02e89575">
+
 ![image](https://github.com/Hwyqlzz/group5/assets/131398458/348134f1-8073-49b1-98a4-4aacde13f47f)
 ![image](https://github.com/Hwyqlzz/group5/assets/131398458/7c50042d-821f-4574-8b79-96d6749fddba)
 ![image](https://github.com/Hwyqlzz/group5/assets/131398458/46486f6a-407b-457f-ad2b-33bf40c251d9)
