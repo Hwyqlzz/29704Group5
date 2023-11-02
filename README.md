@@ -36,7 +36,7 @@ Data model:
 ![image](https://github.com/Hwyqlzz/group5/assets/131398458/5ee994f2-1be1-4d82-831a-31fe603c959b)
 
 
-<h2>Querise:</h2>
+<h2>Queries:</h2>
 
 Query 1: lists a query listing out the playerID, player name, and the number of court reservations per player.
 <img width="1092" alt="Screenshot 2023-11-01 at 16 51 05" src="https://github.com/Hwyqlzz/group5/assets/148079593/34efbe54-b542-4311-ba3b-806d3accc9f8">
@@ -64,7 +64,7 @@ It allows the club to keep track of who are their most loyal players, and who ar
 Query 6:  lists out players who have never played in a tournament, it’s a simple query.  
 ![Picture1](https://github.com/Hwyqlzz/group5/assets/148079593/0f0d36d4-a3c8-45a4-ab64-83679675ecd0)
 
-It allows the club to market who are making their opening debut in which tournaments, and may gardner a larger audience.
+It allows the club to market who are making their opening debut in which tournaments, and may garner a larger audience.
 
 Query 7
 
