@@ -108,34 +108,42 @@ Data model:
 
 Query 1: lists out the playerID, player name, and the number of court reservations per player.
 <img width="1092" alt="Screenshot 2023-11-01 at 16 51 05" src="https://github.com/Hwyqlzz/group5/assets/148079593/34efbe54-b542-4311-ba3b-806d3accc9f8">
+
 This will allow the club to recognize how many times a player has made a reservation, allowing for some packages or discounts to be offered to those with more bookings.
 
 Query 2: lists a query that lists the information for all the players who have not made a court reservation.
 <img width="1064" alt="Screenshot 2023-11-01 at 16 51 43" src="https://github.com/Hwyqlzz/group5/assets/148079593/7b91476c-6cc8-4c33-8eb6-29d9d53f4148">
+
 This allows the club to market to and contact specific customers ( promotional emails or coupons). This helps to maximize revenue and efficiency as it specifically targets those who are not engaged in the booking rather than wasting time and resources advertising to those who are already engaged in the booking.
 
 Query 3:  lists out the player name and number of lessons, it’s a simple query.
 ![elton hsieh simple query 3 93](https://github.com/Hwyqlzz/group5/assets/148079593/569b3b09-a690-4c01-875d-253ce9c59713)
+
 It allows the club to track which players have made lessons to keep into their logs.
 
 Query 4:  lists out % of players and coaches who identify as either “non-binary” or “prefer not to say” and it’s a complex query.  
 ![elton hsieh complex query 4 46](https://github.com/Hwyqlzz/group5/assets/148079593/acada3c7-c069-4ce3-8c45-37307516c69c)
+
 It allows the club to see what percentage of their players and coaches prefer to have complete gender neutrality.
 
 Query 5:  lists out the player names who have spent less on merchandise than the average player, it’s a complex query.  
 ![aidan complex query 5 78](https://github.com/Hwyqlzz/group5/assets/148079593/95e30d27-d07b-4eec-95b7-ddfb1e0d6759)
+
 It allows the club to keep track of who are their most loyal players, and who aren’t.
 
 Query 6:  lists out players who have never played in a tournament, it’s a simple query.  
 ![aidan simple query 6 50](https://github.com/Hwyqlzz/group5/assets/148079593/aa16ac8b-3a09-4c70-9fe9-39b564154be4)
+
 It allows the club to market who are making their opening debut in which tournaments, and may garner a larger audience.
 
 Query 7: Write out a query that lists the coach name, the number of players that have lessons with the coach, and the number of lessons that the coach has in total. Order by number of lessons descending.
 <img width="666" alt="Screenshot 2023-11-02 at 19 41 16" src="https://github.com/Hwyqlzz/group5/assets/148079593/8dbdea9f-77e5-4193-a9f2-1f9fb6817ba8">
+
 Shows the coaches’ workload and who is the most in-demand, which could be used to incentivize coaches for bonuses
 
 Query 8: Write a query to list out the order number, the name of the product, and the name of the player who placed the order for those orders that have the comment “Product arrived damaged.”
 <img width="649" alt="Screenshot 2023-11-02 at 19 42 02" src="https://github.com/Hwyqlzz/group5/assets/148079593/c4e876a9-5203-481c-83ea-2d508a58e510">
+
 This shows which customers were unsatisfied with their order and perhaps which products should no longer be carried since they are present in each of the orders. Enables the pro shop to provide the best customer service possible.
 
 
