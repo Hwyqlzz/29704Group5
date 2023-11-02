@@ -20,6 +20,7 @@ I am the owner/operator of a tennis club called "Green Valley Tennis Center," lo
 <h2>Data Model:</h2>
 Explanation of data model:
 
+Data model:
 
 <h2>Data Dictionary:</h2>
 <img width="699" alt="Merchandise" src="https://github.com/Hwyqlzz/group5/assets/131398458/54e6638b-6c58-475c-aaf0-851f02e89575">
@@ -37,11 +38,11 @@ Explanation of data model:
 
 <h2>Querise:</h2>
 
-Query 1 lists a query listing out the playerID, player name, and the number of court reservations per player.
+Query 1: lists a query listing out the playerID, player name, and the number of court reservations per player.
 <img width="1092" alt="Screenshot 2023-11-01 at 16 51 05" src="https://github.com/Hwyqlzz/group5/assets/148079593/34efbe54-b542-4311-ba3b-806d3accc9f8">
 This will allow the club to recognize how many times an athlete has been booked. This allows for some packages or discounts to be offered to those with more bookings.
 
-Query 2 lists a query that lists the information for all the players who have not made a court reservation.
+Query 2: lists a query that lists the information for all the players who have not made a court reservation.
 <img width="1064" alt="Screenshot 2023-11-01 at 16 51 43" src="https://github.com/Hwyqlzz/group5/assets/148079593/7b91476c-6cc8-4c33-8eb6-29d9d53f4148">
 This allows the club to market to and contact specific customers ( promotional emails or coupons). This helps to maximize revenue and efficiency as it specifically targets those who are not engaged in the booking rather than wasting time and resources advertising to those who are already engaged in the booking.
 
@@ -65,7 +66,13 @@ Query 6:  lists out players who have never played in a tournament, it’s a simp
 
 It allows the club to market who are making their opening debut in which tournaments, and may gardner a larger audience.
 
+Query 7
 
+Query 8
+
+Query 9
+
+Query 10
 
 <h2>Database information:</h2>
 Name of the database: USE ns_F2329704Group5;
