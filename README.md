@@ -3,15 +3,15 @@
 29704 Group5
 <h2>Team Members:</h2>
 
-1. Michael Hearnes [@mh101410](https://github.com/mh101410)
+1. Michael Hearnes [@michaelhearnes](https://github.com/mh101410)
 
-2. Elton Hsieh [@ehsieh1](https://github.com/ehsieh1)
+2. Elton Hsieh [@eltonhsieh](https://github.com/ehsieh1)
 
-3. Aidan Kane [@aidanpatrickkane](https://github.com/aidanpatrickkane)
+3. Aidan Kane [@aidankane](https://github.com/aidanpatrickkane)
 
-4. Mandy Larsen [@awl25](https://github.com/awl25)
+4. Mandy Larsen [@mandylarsen](https://github.com/awl25)
 
-5. Zhengze Li [@Hwyqlzz](https://github.com/Hwyqlzz)
+5. Zhengze Li [@zhengzeli](https://github.com/Hwyqlzz)
 
 6. Nabeel Mohammed [@nabeelmohammed](https://github.com/nabeelmohd56)
 
