@@ -47,6 +47,7 @@ Query 3:  lists out the player name and number of lessons, it’s a simple query
 It allows the club to track which players have made lessons to keep into their logs.
 
 Query 4:  lists out % of players and coaches who identify as either “non-binary” or “prefer not to say” and it’s a complex query.  
+![Picture1](https://github.com/Hwyqlzz/group5/assets/148079593/25d80d5f-b01b-48fb-8df9-6b8ae28d2cc6)
 
 It allows the club to see what percentage of their players and coaches prefer to have complete gender neutrality.
 
