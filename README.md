@@ -139,7 +139,10 @@ Query 6:  lists out players who have never played in a tournament, it’s a simp
 
 It allows the club to market who are making their opening debut in which tournaments, and may garner a larger audience.
 
-Query 7
+Query 7: Write out a query that lists the coach name, the number of players that have lessons with the coach, and the number of lessons that the coach has in total. Order by number of lessons descending.
+<img width="666" alt="Screenshot 2023-11-02 at 19 41 16" src="https://github.com/Hwyqlzz/group5/assets/148079593/8dbdea9f-77e5-4193-a9f2-1f9fb6817ba8">
+
+Shows the coaches’ workload and who is the most in-demand, which could be used to incentivize coaches for bonuses
 
 Query 8
 
