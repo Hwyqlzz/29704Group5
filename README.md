@@ -43,6 +43,7 @@ Query 2 lists a query that lists the information for all the players who have no
 This allows the club to market to and contact specific customers ( promotional emails or coupons). This helps to maximize revenue and efficiency as it specifically targets those who are not engaged in the booking rather than wasting time and resources advertising to those who are already engaged in the booking.
 
 Query 3:  lists out the player name and number of lessons, it’s a simple query.
+![Picture1](https://github.com/Hwyqlzz/group5/assets/148079593/ccf3ad60-02b7-4ff2-97db-41c789fed3bf)
 
 It allows the club to track which players have made lessons to keep into their logs.
 
