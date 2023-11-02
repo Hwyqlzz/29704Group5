@@ -16,8 +16,48 @@
 6. Nabeel Mohammed [@nabeelmohammed](https://github.com/nabeelmohd56)
 
 <h2>Problem Description:</h2>
-I am the owner/operator of a tennis club called "Green Valley Tennis Center," located in Athens, Georgia. Our club is a premium tennis facility that caters to tennis enthusiasts of all ages and skill levels. We offer a range of services, from professional coaching and training to court rentals, leagues, tournaments, and a pro shop. Our goal is to provide a top-notch experience for tennis players and create a vibrant and welcoming tennis community in our area.
+Our project creates a relational database for a tennis club based on the prompt entered below into ChatGPT. In this case, ChatGPT acted as the client and set the appropriate entities and attributes for us to model as necessary. 
+
+Prompt: Pretend you are the owner/operator of a tennis (or football, soccer - your choice) club
+needing to build a relational database. You hired some students from the MIST 4610 class at
+the University of Georgia to create the database for you. They need to know more about your
+organization to identify which entities, attributes, and relationships are important for you.
+Start by describing your business as a real client.
+
+Response: I am the owner/operator of a tennis club called "Green Valley Tennis Center," located in Athens, Georgia. Our club is a premium tennis facility that caters to tennis enthusiasts of all ages and skill levels. We offer a range of services, from professional coaching and training to court rentals, leagues, tournaments, and a pro shop. Our goal is to provide a top-notch experience for tennis players and create a vibrant and welcoming tennis community in our area.
+
+Key aspects of our business that the MIST 4610 class students should consider when designing the relational database include:
+
+1. **Memberships**: We offer different types of membership plans, including monthly, annual, and family memberships. Each membership type may have varying access levels and associated fees.
+
+2. **Court Reservations**: Members and non-members can reserve tennis courts for specific dates and times. The reservation system needs to handle bookings, cancellations, and court assignment.
+
+3. **Player Profiles**: We maintain profiles for all our members and track their personal information, contact details, and skill levels. Players can have multiple addresses and phone numbers, and we keep a record of their preferred contact methods.
+
+4. **Coaching and Instruction**: We have a team of certified tennis coaches who offer private and group lessons. The database should track coach profiles, their availability, and coaching schedules.
+
+5. **Pro Shop Inventory**: We sell tennis equipment and apparel in our pro shop. The database should manage inventory levels, product details, and sales records.
+
+6. **Leagues and Tournaments**: We organize various tennis leagues and tournaments throughout the year. The database should handle registrations, match schedules, and results.
+
+7. **Billing and Payments**: We bill members for their memberships and other services. The database should record billing history, payment methods, and outstanding balances.
+
+8. **Communication**: We send out newsletters and event announcements to our members. The database should manage contact lists and communication preferences.
+
+9. **Employee Records**: We employ staff for court maintenance, front desk operations, and coaching. Employee records should include personal information, job roles, and work schedules.
+
+10. **Feedback and Surveys**: We collect feedback from members to continuously improve our services. The database should store survey responses and feedback history.
+
+11. **Security and Access Control**: Different users (members, employees, administrators) may have varying levels of access to the system. The database should support role-based access control.
+
+12. **Reporting and Analytics**: We need to generate reports on membership statistics, court usage, revenue, and more to make informed business decisions.
+
+The students from the MIST 4610 class should consider these aspects when designing the database schema, identifying the entities (tables), their attributes (fields), and the relationships between them. The relational database should facilitate efficient management of our tennis club's operations and help us deliver a seamless experience to our members and guests.
+
+Based on this response from the client, we determined that the entity central to the data model are the tennis clubs. Players can then buy memberships, participate in tournaments and leagues, reserve courts, and book lessons with coaches. Additionally, each club has a pro shop with merchandise, from which players can place orders. All employees of the club are modeled as well, including support staff and tennis coaches. The goal of our database is to model the entities and their respective attributes, the relationships between them, and then to create sample data off of which the tables can be populated. This will allow us to write SQL queries on the database that will provide us with insight into the operations of the club.
+
 <h2>Data Model:</h2>
+
 Explanation of data model:
 
 Data model:
