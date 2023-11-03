@@ -13,7 +13,7 @@
 
 4. Mandy Larsen [@mandylarsen](https://github.com/awl25)
 
-5. Zhengze Li [@zhengzeli](https://github.com/Hwyqlzz)
+5. Zhengze Li [@Hwyqlzz](https://github.com/Hwyqlzz)
 
 6. Nabeel Mohammed [@nabeelmohammed](https://github.com/nabeelmohd56)
 
