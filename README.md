@@ -123,7 +123,8 @@ Data model:
 
 <h2>Queries:</h2>
 
-<img width="408" alt="Screenshot 2023-11-02 232512" src="https://github.com/Hwyqlzz/group5/assets/35616163/04053896-d375-4ebb-9099-be132bd3591d">
+<img width="439" alt="Screenshot 2023-11-03 134501" src="https://github.com/Hwyqlzz/group5/assets/35616163/b67d2c61-9e98-4eba-abb3-eb4ad009343d">
+
 
 Query 1 lists out the player's ID, player name, and their number of court reservations.
 <img width="1092" alt="Screenshot 2023-11-01 at 16 51 05" src="https://github.com/Hwyqlzz/group5/assets/148079593/34efbe54-b542-4311-ba3b-806d3accc9f8">
