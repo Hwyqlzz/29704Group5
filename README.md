@@ -87,7 +87,7 @@ Data model:
 
 <img width="542" alt="orderdetails" src="https://github.com/Hwyqlzz/group5/assets/35616163/5aecfad6-f79f-4d0e-af7d-d4fa2b9287dc">
 
-<img width="545" alt="orders" src="https://github.com/Hwyqlzz/group5/assets/35616163/ed488eff-49c7-4dbf-8540-c205c717c56a">
+<img width="543" alt="image" src="https://github.com/Hwyqlzz/group5/assets/35616163/4a851f65-e377-4540-8856-a55caceaf39d">
 
 <img width="543" alt="participation" src="https://github.com/Hwyqlzz/group5/assets/35616163/444b1d8e-def2-402d-8765-a48fb98c7279">
 
