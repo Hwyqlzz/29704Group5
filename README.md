@@ -114,50 +114,61 @@ Data model:
 
 <h2>Queries:</h2>
 
-Query 1: lists out the playerID, player name, and the number of court reservations per player.
+<img width="408" alt="Screenshot 2023-11-02 232512" src="https://github.com/Hwyqlzz/group5/assets/35616163/04053896-d375-4ebb-9099-be132bd3591d">
+
+Query 1 lists out the player's ID, player name, and their number of court reservations.
 <img width="1092" alt="Screenshot 2023-11-01 at 16 51 05" src="https://github.com/Hwyqlzz/group5/assets/148079593/34efbe54-b542-4311-ba3b-806d3accc9f8">
 
 This will allow the club to recognize how many times a player has made a reservation, allowing for some packages or discounts to be offered to those with more bookings.
 
-Query 2: lists a query that lists the information for all the players who have not made a court reservation.
+Query 2 lists the information for all the players who have not made a court reservation.
 <img width="1064" alt="Screenshot 2023-11-01 at 16 51 43" src="https://github.com/Hwyqlzz/group5/assets/148079593/7b91476c-6cc8-4c33-8eb6-29d9d53f4148">
 
-This allows the club to market to and contact specific customers ( promotional emails or coupons). This helps to maximize revenue and efficiency as it specifically targets those who are not engaged in the booking rather than wasting time and resources advertising to those who are already engaged in the booking.
+This allows the club to market to and contact specific customers (promotional emails or coupons). This helps to maximize revenue and efficiency as it specifically targets those who are not engaged in the booking rather than wasting time and resources advertising to those who are already engaged in the booking.
 
-Query 3:  lists out the player name and number of lessons, it’s a simple query.
+Query 3 lists out the player name and number of lessons they have scheduled
 ![elton hsieh simple query 3 93](https://github.com/Hwyqlzz/group5/assets/148079593/569b3b09-a690-4c01-875d-253ce9c59713)
 
-It allows the club to track which players have made lessons to keep into their logs.
+This allows the club to assess the effectiveness of the lessons and ensure that player's performance is improving as they take more lessons.
 
-Query 4:  lists out % of players and coaches who identify as either “non-binary” or “prefer not to say” and it’s a complex query.  
+Query 4 lists out % of players and coaches who identify as either “non-binary” or “prefer not to say”.
 ![elton hsieh complex query 4 46](https://github.com/Hwyqlzz/group5/assets/148079593/acada3c7-c069-4ce3-8c45-37307516c69c)
 
-It allows the club to see what percentage of their players and coaches prefer to have complete gender neutrality.
+This data can help the club measure progress in diversity and make informed decisions regarding diversity and inclusion initiatives, ensuring that all members, regardless of their gender identity, feel comfortable and valued at the club.
 
-Query 5:  lists out the player names who have spent less on merchandise than the average player, it’s a complex query.  
+Query 5 lists out the player names who have spent less on merchandise than the average player  
 ![aidan complex query 5 78](https://github.com/Hwyqlzz/group5/assets/148079593/95e30d27-d07b-4eec-95b7-ddfb1e0d6759)
 
-It allows the club to keep track of who are their most loyal players, and who aren’t.
+This allows the club to tailor their marketing towards those who have not been spending as much money at the pro shop. In addition, the club can begin a rewards program to incentivize purchases.
 
-Query 6:  lists out players who have never played in a tournament, it’s a simple query.  
+Query 6 lists out players who have never played in a tournament. 
 ![aidan simple query 6 50](https://github.com/Hwyqlzz/group5/assets/148079593/aa16ac8b-3a09-4c70-9fe9-39b564154be4)
 
-It allows the club to market who are making their opening debut in which tournaments, and may garner a larger audience.
+This shows the club who is and is not interested in competitive tennis and demonstrates 
 
-Query 7: Write out a query that lists the coach name, the number of players that have lessons with the coach, and the number of lessons that the coach has in total. Order by number of lessons descending.
+Query 7 lists the coach's name, the number of players that have lessons with the coach, and the number of lessons that the coach has in total. Order by number of lessons descending.
 <img width="666" alt="Screenshot 2023-11-02 at 19 41 16" src="https://github.com/Hwyqlzz/group5/assets/148079593/8dbdea9f-77e5-4193-a9f2-1f9fb6817ba8">
 
 Shows the coaches’ workload and who is the most in-demand, which could be used to incentivize coaches for bonuses
 
-Query 8: Write a query to list out the order number, the name of the product, and the name of the player who placed the order for those orders that have the comment “Product arrived damaged.”
+Query 8 lists out the order number, the name of the product, and the name of the player who placed the order for those orders that have the comment “Product arrived damaged.”
 <img width="649" alt="Screenshot 2023-11-02 at 19 42 02" src="https://github.com/Hwyqlzz/group5/assets/148079593/c4e876a9-5203-481c-83ea-2d508a58e510">
 
 This shows which customers were unsatisfied with their order and perhaps which products should no longer be carried since they are present in each of the orders. Enables the pro shop to provide the best customer service possible.
 
 
-Query 9
+Query 9 lists the names of the employees and start date employment for those employees who have worked at the club since 2018 or earlier and make less than $50/hour. Sort by seniority of employment.
 
-Query 10
+<img width="703" alt="query9" src="https://github.com/Hwyqlzz/group5/assets/35616163/9d584b99-80ce-48a0-989a-a6c994b73861">
+
+This shows to management who has been working at the club the longest and thus likely knows about the operations of the club to perhaps be promoted into a management position, taking salaries into account to see if employees deserve a raise.
+
+Query 10 lists out the names of players and their tournament records (wins, draws, and losses) and win percentage, including those with no match history. Order by number of wins.
+
+<img width="775" alt="query10" src="https://github.com/Hwyqlzz/group5/assets/35616163/a1a9fea2-5236-4631-8412-9811f59b1b43">
+
+This shows the best-performing players, who could be awarded prize money for winning a league or tournament.
+
 
 <h2>Database information:</h2>
 Name of the database: ns_F2329704Group 5
