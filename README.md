@@ -1,6 +1,8 @@
 <h1>GROUP 5 MIST 4610 Group Project 1</h1>
+
 <h2>TEAM NAME:</h2>
-29704 Group5
+29704 Group 5
+
 <h2>Team Members:</h2>
 
 1. Michael Hearnes [@michaelhearnes](https://github.com/mh101410)
@@ -16,13 +18,9 @@
 6. Nabeel Mohammed [@nabeelmohammed](https://github.com/nabeelmohd56)
 
 <h2>Problem Description:</h2>
-Our project creates a relational database for a tennis club based on the prompt entered below into ChatGPT. In this case, ChatGPT acted as the client and set the appropriate entities and attributes for us to model as necessary. 
+Our project creates a relational database for a tennis club based on the prompt entered below into ChatGPT. In this case, ChatGPT acted as the client and set the appropriate entities and attributes for us to model as necessary.
 
-Prompt: Pretend you are the owner/operator of a tennis (or football, soccer - your choice) club
-needing to build a relational database. You hired some students from the MIST 4610 class at
-the University of Georgia to create the database for you. They need to know more about your
-organization to identify which entities, attributes, and relationships are important for you.
-Start by describing your business as a real client.
+Prompt: Pretend you are the owner/operator of a tennis (or football, soccer - your choice) club needing to build a relational database. You hired some students from the MIST 4610 class at the University of Georgia to create the database for you. They need to know more about your organization to identify which entities, attributes, and relationships are important for you. Start by describing your business as a real client.
 
 Response: I am the owner/operator of a tennis club called "Green Valley Tennis Center," located in Athens, Georgia. Our club is a premium tennis facility that caters to tennis enthusiasts of all ages and skill levels. We offer a range of services, from professional coaching and training to court rentals, leagues, tournaments, and a pro shop. Our goal is to provide a top-notch experience for tennis players and create a vibrant and welcoming tennis community in our area.
 
@@ -62,11 +60,22 @@ Key aspects of our business that the MIST 4610 class students should consider wh
 
 The students from the MIST 4610 class should consider these aspects when designing the database schema, identifying the entities (tables), their attributes (fields), and the relationships between them. The relational database should facilitate efficient management of our tennis club's operations and help us deliver a seamless experience to our members and guests.
 
-Based on this response from the client, we determined that the entity central to the data model are the tennis clubs. Players can then buy memberships, participate in tournaments and leagues, reserve courts, and book lessons with coaches. Additionally, each club has a pro shop with merchandise, from which players can place orders. All employees of the club are modeled as well, including support staff and tennis coaches. The goal of our database is to model the entities and their respective attributes, the relationships between them, and then to create sample data off of which the tables can be populated. This will allow us to write SQL queries on the database that will provide us with insight into the operations of the club.
+Based on this response from the client, we determined that the entity central to the data model is the tennis clubs. Players can then buy memberships, participate in tournaments and leagues, reserve courts, and book lessons with coaches. Additionally, each club has a pro shop with merchandise, from which players can place orders. All employees of the club are modeled as well, including support staff and tennis coaches. The goal of our database is to model the entities and their respective attributes, the relationships between them, and then to create sample data off of which the tables can be populated. This will allow us to write SQL queries on the database that will provide us with insight into the operations of the club.
 
 <h2>Data Model:</h2>
 
 Explanation of data model:
+
+Our data model is representative of a tennis club's structure, as described above by the hypothetical client. To begin, we have the Tennis Club table itself, which has several relationships stemming from it. The club has a one-to-one relationship with the pro shop; one club has one pro shop. To account for this, the pro shop's ID is placed in the tennis club's attributes as a foreign key. The Tennis Clubs table has one-to-many relationships with Employees (many employees work for one club), Leagues (many leagues correspond to one club), and Courts (a club has many courts). The Pro Shops table has a one-to-many relationship as well with Merchandise (an assortment of merchandise is present at the shop).
+
+The branches off of the Tennis Clubs table have relationships tracing to them as well. For the Employees table, there is a one-to-many relationship with Positions (there are many employees, each with one position). The Courts table has a one-to-many relationship with Court Reservations (one court can be reserved many times).
+
+Aside from the Tennis Clubs entity, another table that is critical to the model is Players. Players can reserve courts, book lessons with coaches, and participate in tournaments. Thus, several relationships can be traced back to the Players entity. The Players table has a one-to-many relationship with Court Reservations (a player can book a court many times). There are also two many-to-many relationships that Players have: Coaches and Tournies. The associative entities between these are Lessons and Participation, respectively. These relationships are present because there are many coaches and many players, who can book many lessons, and there are many players and many tournaments, in which players participate many times. Expanding upon the Tournies table, this entity also has a one-to-many relationship with Leagues (there are many tournaments in one league), which can be further traced back to Tennis Clubs. The final relationship that can be traced back to Players is the one-to-many relationship with the Orders table (one player can make many orders).
+
+The final pieces of the puzzle are the relationships that flow back to the Pro Shops entity. As mentioned above, the Pro Shops table has a one-to-many relationship with Merchandise. From the Merchandise table, Order Details can be traced using a one-to-many relationship (one order can have many items). Furthermore, Order Details has a one-to-many relationship with Orders (there can be more than one row in Order Details corresponding to one order). Finally, Memberships has a one-to-many relationship with Orders (one member can place many orders).
+
+
+
 
 Data model:
 ![IMG_2808 13](https://github.com/Hwyqlzz/group5/assets/148079593/1d81de7c-b9ac-4bf7-8bcc-b3fcdb0a38b2)
