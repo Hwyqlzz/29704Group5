@@ -28,29 +28,37 @@ Response: I am the owner/operator of a tennis club called "Green Valley Tennis C
 
 Key aspects of our business that the MIST 4610 class students should consider when designing the relational database include:
 
-1. **Memberships**: We offer different types of membership plans, including monthly, annual, and family memberships. Each membership type may have varying access levels and associated fees.
+1. **Employees**: Represents the staff working at the Green Valley Tennis Center, including their personal information, contact details, job roles, and work schedules.
 
-2. **Court Reservations**: Members and non-members can reserve tennis courts for specific dates and times. The reservation system needs to handle bookings, cancellations, and court assignment.
+2. **TennisClubs**: Represents the tennis club itself, Green Valley Tennis Center, including details about the club's location, facilities, and general information.
 
-3. **Player Profiles**: We maintain profiles for all our members and track their personal information, contact details, and skill levels. Players can have multiple addresses and phone numbers, and we keep a record of their preferred contact methods.
+3. **Courts**: Represents the tennis courts available at the club, including information about each court, such as court number, surface type, and availability.
 
-4. **Coaching and Instruction**: We have a team of certified tennis coaches who offer private and group lessons. The database should track coach profiles, their availability, and coaching schedules.
+4. **CourtReservations**: Tracks reservations made by members and non-members for specific tennis courts on specific dates and times, including information about bookings, cancellations, and court assignments.
 
-5. **Pro Shop Inventory**: We sell tennis equipment and apparel in our pro shop. The database should manage inventory levels, product details, and sales records.
+5. **Positions**: Represents the various job positions within the organization, both for employees and club management, including details about job titles, responsibilities, and access levels.
 
-6. **Leagues and Tournaments**: We organize various tennis leagues and tournaments throughout the year. The database should handle registrations, match schedules, and results.
+6. **Leagues**: Represents the tennis leagues organized by the club, including information about league types, schedules, and participants.
 
-7. **Billing and Payments**: We bill members for their memberships and other services. The database should record billing history, payment methods, and outstanding balances.
+7. **ProShops**: Represents the pro shop at the tennis center, which sells tennis equipment and apparel, including details about the shop's inventory, products, and sales records.
 
-8. **Communication**: We send out newsletters and event announcements to our members. The database should manage contact lists and communication preferences.
+8. **Merchandise**: Contains information about the merchandise available in the pro shop, including product details, pricing, and stock levels.
 
-9. **Employee Records**: We employ staff for court maintenance, front desk operations, and coaching. Employee records should include personal information, job roles, and work schedules.
+9. **Tournies**: Represents tennis tournaments organized by the club, including details about tournament types, schedules, and participants.
 
-10. **Feedback and Surveys**: We collect feedback from members to continuously improve our services. The database should store survey responses and feedback history.
+10. **Memberships**: Tracks the different membership plans offered by the Green Valley Tennis Center, including monthly, annual, and family memberships, and includes access levels and associated fees.
 
-11. **Security and Access Control**: Different users (members, employees, administrators) may have varying levels of access to the system. The database should support role-based access control.
+11. **OrderDetails**: Stores detailed information about orders made by members in the pro shop, including items purchased, quantities, and prices.
 
-12. **Reporting and Analytics**: We need to generate reports on membership statistics, court usage, revenue, and more to make informed business decisions.
+12. **Participation**: Tracks the participation of members and players in various club activities, such as leagues, tournaments, and coaching sessions.
+
+13. **Orders**: Represents orders made by members in the pro shop, including order dates, total amounts, and payment information.
+
+14. **Players**: Maintains profiles for all club members and players, tracking their personal information, contact details, and skill levels.
+
+15. **Lessons**: Tracks coaching and instruction services offered by the club, including details about coaching sessions, schedules, and instructors.
+
+16. **Coaches**: Represents the certified tennis coaches employed by the club, including coach profiles, availability, and coaching schedules.
 
 The students from the MIST 4610 class should consider these aspects when designing the database schema, identifying the entities (tables), their attributes (fields), and the relationships between them. The relational database should facilitate efficient management of our tennis club's operations and help us deliver a seamless experience to our members and guests.
 
