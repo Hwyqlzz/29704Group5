@@ -147,17 +147,22 @@ Query 6 lists out players who have never played in a tournament.
 This shows the club who is and is not interested in competitive tennis and demonstrates 
 
 Query 7 lists the coach's name, the number of players that have lessons with the coach, and the number of lessons that the coach has in total. Order by number of lessons descending.
+
+
 <img width="666" alt="Screenshot 2023-11-02 at 19 41 16" src="https://github.com/Hwyqlzz/group5/assets/148079593/8dbdea9f-77e5-4193-a9f2-1f9fb6817ba8">
 
-Shows the coaches’ workload and who is the most in-demand, which could be used to incentivize coaches for bonuses
+Shows the coaches’ workload and who is the most in-demand, which could be used to incentivize coaches for bonuses.
 
 Query 8 lists out the order number, the name of the product, and the name of the player who placed the order for those orders that have the comment “Product arrived damaged.”
+
+
 <img width="649" alt="Screenshot 2023-11-02 at 19 42 02" src="https://github.com/Hwyqlzz/group5/assets/148079593/c4e876a9-5203-481c-83ea-2d508a58e510">
 
 This shows which customers were unsatisfied with their order and perhaps which products should no longer be carried since they are present in each of the orders. Enables the pro shop to provide the best customer service possible.
 
 
-Query 9 lists the names of the employees and start date employment for those employees who have worked at the club since 2018 or earlier and make less than $50/hour. Sort by seniority of employment.
+Query 9 lists the names of the employees and the start date of employment for those employees who have worked at the club since 2018 or earlier and make less than $50/hour. Sort by seniority of employment.
+
 
 <img width="703" alt="query9" src="https://github.com/Hwyqlzz/group5/assets/35616163/9d584b99-80ce-48a0-989a-a6c994b73861">
 
